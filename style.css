@@ -1,7 +1,9 @@
-body {background-color: #FFFFFF
+body {background-color: #E0FFFF
 	}
 p {text-indent: 25px;
         }
+.pad { padding: 0px;
+	}
 .linK {
 	display: inline-block;	
 	padding: 5 px 15 px;
