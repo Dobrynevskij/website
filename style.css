@@ -4,6 +4,11 @@ p {text-indent: 25px;
         }
 .pad { padding: 0px;
 	}
+.but { background-color: #FFFF00;
+	color: #FF00FF;
+	}
+.but:hover { color: #FF0000;
+	}
 .linK {
 	display: inline-block;	
 	padding: 5 px 15 px;
