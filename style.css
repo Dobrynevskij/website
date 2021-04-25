@@ -6,6 +6,7 @@ p {text-indent: 25px;
 	}
 .but { background-color: #87CEEB;
 	color: #4682B4;
+	width: 20%;
 	}
 .but:hover { color: #0000CD;
 	background-color: #ADD8E6;
