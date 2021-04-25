@@ -5,10 +5,10 @@ p {text-indent: 25px;
 .pad { padding: 0px;
 	}
 .but { background-color: #87CEEB;
-	color: #4682B4;
-	width: 20%;
+	color: #800080;
+	width: 15%;
 	}
-.but:hover { color: #0000CD;
+.but:hover { color: #8B008B;
 	background-color: #ADD8E6;
 	}
 .linK {
