@@ -4,16 +4,17 @@ p {text-indent: 25px;
         }
 .pad { padding: 0px;
 	}
-.but { background-color: #FFFF00;
-	color: #FF00FF;
+.but { background-color: #87CEEB;
+	color: #4682B4;
 	}
-.but:hover { color: #FF0000;
+.but:hover { color: #0000CD;
+	background-color: #ADD8E6;
 	}
 .linK {
 	display: inline-block;	
 	padding: 5 px 15 px;
 	text-decoration: none;
-	color: #000;
+	color: #4169E1;
 	}
 .linK:hover {
 	box-shadow: 0 0 5px rgba(0,0,0,0.3):
