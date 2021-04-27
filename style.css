@@ -23,12 +23,13 @@ p {text-indent: 25px;
 	background: linear-gradient(to bottom, #fcfff4, #e9e9ce);
 	color: #a00;
 	}
-.block {height: 90px;
+.block {height: 97.5px;
 	}
 .IMG { height: 40px;
 	width: 80%;
 	}
-
+.q { height: 100%;
+	}
 
 
 
