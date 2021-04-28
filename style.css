@@ -30,8 +30,12 @@ p {text-indent: 25px;
 	}
 .q { height: 100%;
 	}
-
-
+.left { float:left; 
+        margin: 7px 7px 7px 0;
+        }
+.right  { float: right; 
+        margin: 7px 0 7px 7px;
+        }
 
 
 
