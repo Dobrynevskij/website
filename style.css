@@ -29,6 +29,7 @@ p {text-indent: 25px;
 	width: 80%;
 	}
 .q { height: 100%;
+        padding: 0px;
 	}
 .left { float:left; 
         margin: 7px 7px 7px 0;
