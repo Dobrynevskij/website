@@ -43,7 +43,6 @@ p {text-indent: 25px;
   font-family: monospace;
   overflow: hidden;
   border-right: .15em solid orange;
-  white-space: nowrap;
   margin: 0 auto;
  letter-spacing: .15em;
   animation: 
