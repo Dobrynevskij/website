@@ -40,15 +40,12 @@ p {text-indent: 25px;
 
 
 .typewriter h6 {
-  //font-family: monospace;
   overflow: hidden;
   white-space: normal;
-  //border-right: .15em solid orange;
   margin: 0 auto;
  letter-spacing: .15em;
   animation: 
     typing 6.5s steps(195, end),
-    //blink-caret .5s step-end infinite;
 }
 
 @keyframes typing {
