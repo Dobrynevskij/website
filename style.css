@@ -42,6 +42,7 @@ p {text-indent: 25px;
 .typewriter h1 {
   font-family: monospace;
   overflow: hidden;
+  white-space: normal;
   border-right: .15em solid orange;
   margin: 0 auto;
  letter-spacing: .15em;
