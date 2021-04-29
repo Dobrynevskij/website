@@ -37,18 +37,3 @@ p {text-indent: 25px;
 .right  { float: right; 
         margin: 7px 0 7px 7px;
         }
-
-
-.typewriter h6 {
-    overflow:hidden;
-    -webkit-animation: type 5s steps(50, end);
-    animation: type 5s steps(50, end);
-}
-
-@keyframes type{
-    from { width: 0; }
-}
-
-@-webkit-keyframes type{
-    from { width: 0; }
-}
