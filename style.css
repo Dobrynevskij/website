@@ -41,14 +41,14 @@ p {text-indent: 25px;
 
 .typewriter h6 {
   overflow: hidden;
-	border-right: .15em solid orange;
-	font-family: monospace;
+//border-right: .15em solid orange;
+//font-family: monospace;
   white-space: normal;
   margin: 0 auto;
  letter-spacing: .15em;
   animation: 
     typing 6.5s steps(195, end),
-	   blink-caret .5s step-end infinite;
+//blink-caret .5s step-end infinite;
 }
 
 @keyframes typing {
