@@ -39,7 +39,7 @@ p {text-indent: 25px;
         }
 
 
-.typewriter h1 {
+.typewriter {
   font-family: monospace;
   overflow: hidden;
   white-space: normal;
