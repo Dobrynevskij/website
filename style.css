@@ -40,10 +40,10 @@ p {text-indent: 25px;
 
 
 .typewriter h6 {
-  font-family: monospace;
+  //font-family: monospace;
   overflow: hidden;
   white-space: normal;
-  border-right: .15em solid orange;
+  //border-right: .15em solid orange;
   margin: 0 auto;
  letter-spacing: .15em;
   animation: 
@@ -56,6 +56,6 @@ p {text-indent: 25px;
   to { width: 100% }
 }
 
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
+//@keyframes blink-caret {
+  //from, to { border-color: transparent }
+ // 50% { border-color: orange }
